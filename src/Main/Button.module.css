@@ -1,0 +1,17 @@
+.btn {
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 16px 40px;
+    border-radius: 50px;
+    display: inline-block;
+    font-weight: 500;
+    transition: all 0.4s ease-in-out;
+    /*background-size: 152% 100%;*/
+    /*background: transparent;*/
+    border: 2px solid #FD4766;;
+    color: white;
+}
+.btn:hover {
+    background: #FD4766;
+}
