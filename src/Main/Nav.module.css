@@ -3,21 +3,25 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-   width: 90%;
+    width: 90%;
     margin: 10px 0;
 }
+
 .navList {
     display: flex;
     justify-content: space-between;
 }
+
 .navLink a {
-    color:  white;
+    color: white;
 }
+
 .navLink {
     position: relative;
     padding: 20px 0;
     margin: 0 10px;
 }
+
 .navLink:hover:before {
     position: absolute;
     content: "";
@@ -27,6 +31,7 @@
     height: 3px;
     background: red;
 }
+
 .navRight {
     display: flex;
     justify-content: space-between;

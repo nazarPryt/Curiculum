@@ -2,9 +2,6 @@ import React, {useState} from 'react';
 import s from './Switcher.module.css'
 
 
-
-
-
 const Switcher = () => {
 
     const [on, setOn] = useState<boolean>(false)
