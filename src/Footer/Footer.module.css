@@ -1,0 +1,32 @@
+
+.footerWrap {
+    position: relative;
+    color: white;
+    padding-top: 20px;
+    background-color: #252527;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 500px;
+}
+
+.icon {
+    width: 50px;
+    height: auto;
+}
+
+.copyright {
+    text-align: center;
+    padding: 30px 0;
+}
+.myName {
+    color: red;
+}
+.arrowUp {
+    position: absolute;
+    top: 50%;
+    right: 5%;
+}
