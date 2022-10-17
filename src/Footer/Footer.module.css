@@ -5,19 +5,16 @@
     padding-top: 20px;
     background-color: #252527;
 }
-
 .nav {
     display: flex;
     justify-content: space-between;
     margin: 0 auto;
     width: 500px;
 }
-
 .icon {
     width: 50px;
     height: auto;
 }
-
 .copyright {
     text-align: center;
     padding: 30px 0;
@@ -30,8 +27,6 @@
     top: 50%;
     right: 5%;
 }
-
-
 .arrowUPs {
     margin: 0 30px;
 }
