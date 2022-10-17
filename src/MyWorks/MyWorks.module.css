@@ -1,0 +1,29 @@
+
+.AllWrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    /*background-color: darkcyan;*/
+}
+
+.singleCardWrapper {
+    /*background-color: coral;*/
+    width: 33%;
+    margin-bottom: 50px;
+
+}
+.singleCardWrapper span {
+    font-size: 24px;
+    color: white;
+}
+
+.singleCardWrapper img {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    object-fit: cover;
+}
+.singleCardWrapper:hover {
+    background-color: black;
+}

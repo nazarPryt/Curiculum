@@ -4,6 +4,7 @@ import Main from "./Main/Main";
 import ContactMe from "./ContactMe/ContactMe";
 import Footer from "./Footer/Footer";
 import Skills from "./Skills/Skills";
+import MyWorks from "./MyWorks/MyWorks";
 
 function App() {
     return (
@@ -11,7 +12,8 @@ function App() {
             {/*<Main/>*/}
             {/*<ContactMe/>*/}
             {/*<Footer/>*/}
-            <Skills/>
+            {/*<Skills/>*/}
+            <MyWorks/>
         </div>
     );
 }
