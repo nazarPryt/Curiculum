@@ -1,9 +1,8 @@
 
 .skillsWrapper {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     flex-wrap: wrap;
-    background-color: darkcyan;
 }
 
 .skillItem {

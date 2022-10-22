@@ -9,11 +9,11 @@ import MyWorks from "./MyWorks/MyWorks";
 function App() {
     return (
         <div>
-            {/*<Main/>*/}
-            {/*<ContactMe/>*/}
-            {/*<Footer/>*/}
-            {/*<Skills/>*/}
+            <Main/>
+            <Skills/>
             <MyWorks/>
+            <ContactMe/>
+            <Footer/>
         </div>
     );
 }

@@ -18,7 +18,7 @@ const Footer = () => {
                     <a href="#"><img className={s.icon} src={linkedin} alt="linkedin-icon"/></a>
                 </nav>
                 <p className={s.copyright}>Copyright © <time dateTime="2022">2022</time> All rights reserved by
-                    <span className={s.myName}>Nazar Prytuliak</span>. Built with love in Italy :)
+                    <span className={s.myName}> Nazar Prytuliak</span>. Built with love in Italy :)
                 </p>
                 {/*<a href="#" className={s.arrowUp}><img className={s.icon} src={arrowUp} alt="arrow-up-icon"/></a>*/}
                 <a href="#" className={s.arrowLink}>
